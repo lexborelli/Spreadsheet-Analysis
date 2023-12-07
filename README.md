@@ -1,4 +1,4 @@
-Utilized Python to do a basic data analysis on a spreadsheet with another student in Code first Girls python course. The tasks listed below is what was copleted in the course:
+Utilized Python and Pandas to do a basic data analysis on a spreadsheet with another student in Code first Girls python course. The tasks listed below is what was copleted in the course:
 1. Read the data from the spreadsheet
 2. Collect all of the sales from each month into a single list
 3. Output the total sales across all months
