@@ -7,4 +7,4 @@ The tasks listed below is what was completed in the project:
 5. The average
 6. Months with the highest and lowest sales
 
-Can run my program on my partners replit site : https://replit.com/@gabadactyl/CFGFinalPython
+Can run our program on my partners replit site : https://replit.com/@gabadactyl/CFGFinalPython
